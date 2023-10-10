@@ -38,7 +38,9 @@ Your mission if you choose to accept it, you have to:
      -- if yes - the user will be deleted
      -- if no - do nothing
 
-6. Typescript 
+6. Typescript
+
+7. Live project URL: https://shujaaur-factwise-todo.netlify.app/
 
 💻 Tech used:
 - React v17
